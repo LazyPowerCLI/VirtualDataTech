@@ -88,7 +88,7 @@
     "core-js": "2.5.5",
     "jump.js": "1.0.2",
     "lit-element": "2.2.0",
-    "prismjs": "1.14.0",
+    "prismjs": "1.24.0",
     "rxjs": "6.5.2",
     "web-animations-js": "github:angular/web-animations-js#release_pr208",
     "zone.js": "~0.9.1"
